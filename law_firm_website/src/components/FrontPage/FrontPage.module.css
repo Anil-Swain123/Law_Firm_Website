@@ -1,0 +1,87 @@
+.FrontPage {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:flex-start;
+    align-content: center;
+    width: 100vw;
+    height: 636px;
+    margin-top: 53px;
+    margin-left: 153px;
+    margin-right: 153px;
+}
+
+.topheading {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: center;
+    width: 100vw;
+    height: 91.29px;
+    /* top: 0px;
+    left: 0px;
+    padding: 0px; */
+}
+
+.middleHeading {
+    position: relative;
+    height:544.41px;
+    width: 100vw;
+    gap:40px;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    align-content: center;
+    margin-top: 40px;
+}
+
+.middleHeading1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:flex-start;
+    align-content: center;
+    height:100%;
+    width: 100%;
+}
+
+.heading1 {
+    width: 571px;
+    height: 194px;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 97.37px;
+}
+
+.heading2 {
+    width: 560px;
+    height: 99px;
+    font-size: 66px;
+    font-weight: 500;
+    opacity: 0.3px;
+}
+.head3{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 29.25px; 
+    margin-top: 24px;
+    margin-bottom: 24px;
+    text-overflow: ellipsis;
+    text-wrap:wrap;
+} 
+
+.imageSectionBackground {
+    background-color: var(--color-yellow);
+    width: 100%;
+    top: 119px;
+    left: 667px; 
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 40px;
+    
+}

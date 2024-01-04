@@ -1,0 +1,13 @@
+.catagory {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 431px;
+    height: 26px;
+    top: 10px;
+    left:355px;
+    cursor: pointer;
+}

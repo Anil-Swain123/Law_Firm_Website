@@ -1,0 +1,54 @@
+.search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 438px;
+    height: 74px;
+    /* top: 562x; */
+    /* left: 1px; */
+    border-radius: 43px;
+    opacity: 0.1px;
+    color: #FFFFFF;
+    background-color: rgb(37, 37, 37);
+
+}
+.mailBox {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 224px;
+    height: 26px;
+    top: 639px;
+    left: 0px;
+    opacity: 0.2px;
+    margin-left: 28px;
+
+}
+.mailLogo {
+   
+    width: 18.33px;
+    height: 16.5px;
+    top: 2.75px;
+    left: 1.83px;
+
+}
+.input{
+    
+    width: 190px;
+    height: 26px;
+    /* top: 10px;
+    left: 63px; */
+    cursor:pointer;
+    background-color: inherit;
+}
+
+.letsTalk {
+    background-color: var(--color-yellow);
+    width: 137px;
+    height: 62px;
+    top: 10px;
+    left: 0px;
+    border-radius: 43px;
+    cursor: pointer;
+
+}

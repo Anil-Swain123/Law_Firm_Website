@@ -1,0 +1,29 @@
+.logo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    align-items: center;
+    gap: 0px;
+    width: 143px;
+    height: 30.3px;
+    top: 8px;
+    left: 153px;
+    padding: 0px, 0px, 0px, 0px;
+    font-weight: 400;
+}
+.logoImage {
+    width: 30.41px;
+    height: 100vh;
+}
+
+/* .logoName {
+    width: 101.3px;
+    height: 15.95px;
+    top: 68.58px;
+    left: 194.7px;
+    font-weight: 200;
+    color: #FFFFFF;
+    
+} */

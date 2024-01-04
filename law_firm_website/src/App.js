@@ -1,9 +1,11 @@
-
+import React from 'react';
+import FrontPage from './components/FrontPage/FrontPage';
 import './App.css';
 
 function App() {
   return (
  <>
+ <FrontPage />
  </>
   );
 }
